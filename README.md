@@ -48,3 +48,4 @@ If the user enters a number outside 1–7, the program prints:
 Created: December 2025  
 
 ⭐ If you like this project, consider giving it a star!
+
